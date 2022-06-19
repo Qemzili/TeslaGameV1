@@ -1,7 +1,7 @@
 {
-  "name": "Tesla Game V1 Versiyon",
-  "description": " @TeslaGameBot'un Eski Alt Versiyon Projesi GitHub'da Kullanıcılara Açık Sunuldu.",
-  "repository": "https://github.com/sirincay/TeslaGamev1",
+  "name": "Tesla Pro Bot Versiyon",
+  "description": " @Teslapro_bot'un Eski Alt Versiyon Projesi GitHub'da Kullanıcılara Açık Sunuldu.",
+  "repository": "https://github.com/Qemzili/Teslapro_bot",
   "logo": "https://avatars.githubusercontent.com/u/88708263?s=96&v=4",
   "keywords": ["telegram", "bot"],
   "env": {
@@ -15,14 +15,14 @@
     },
     "BOT_ISMI": {
       "description": "Botun Kullanıcı Adını '@' Olmadan Yazın",
-      "value": "TeslaGameBot"
+      "value": "Teslapro_bot"
     },
     "RAUND_SAYI": {
       "description": "RAUND SAYISI (3-5) İdeal aralık ",
-      "value": "3"
+      "value": "30"
     },
     "SANIYE": {
-      "description": "Resimlerin Değişmesi Süresi / 10000=10 Saniye",
+      "description": "Resimlerin Değişmesi Süresi / 10000=12 Saniye",
       "value": "10000"
       }
   },
