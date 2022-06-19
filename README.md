@@ -16,7 +16,7 @@
 Şuan Kullanılan <a href="https://t.me/Teslapro_bot" >@Teslapro_bot</a>'un <br/>
 Eski Alt Versiyon Projesi GitHub'da Kullanıcılara Açık Sunuldu.</b>
 <br/><br/>
-<strong><a href="https://telegra.ph/TeslaGame-Türkçe-Oyun-Rehberi-05-29">Dökümanı Okuyun</a></strong>
+<strong><a href="https://telegra.ph/Teslapro_bot-Türkçe-Oyun-Rehberi-05-29">Dökümanı Okuyun</a></strong>
     ·
     <strong><a href="https://t.me/husnuehedov">Hata Bildir</a></strong>
    </p>
