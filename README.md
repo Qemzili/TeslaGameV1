@@ -73,9 +73,9 @@ Tüm hakları saklıdır!
 
 ## İletişim
 
-Telegram- [@HusnuEhedov](https://t.me/husnuehedov)
+Telegram- [@Murad_556](https://t.me/Murad_556)
 
-Project Link: [https://github.com/sirincay/TeslaGameV1](https://github.com/sirincay/TeslaGameV1)
+Project Link: [https://github.com/Qemzili/TeslaGameV1](https://github.com/Qemzili/TeslaGameV1)
 
 
 
